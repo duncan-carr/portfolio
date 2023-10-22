@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a:hover {
+    color: indianred;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: underline dotted;
+}
+
+* {
+    background-color: #FCF5E5;
+}
