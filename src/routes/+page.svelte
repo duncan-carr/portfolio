@@ -49,7 +49,7 @@
         <div class="my-3">
             <h3 class="text-lg font-thin">Laundry Website – Sep 2023 – <i class="fa-brands fa-github"></i> <a target="_blank" href="https://github.com/mcurranseijo/BravesLaundry">Source Code</a> – <a target="_blank" href="https://braveslaundry.kbots.tech/">Website Link</a></h3>
             <p>
-                In collaboration with another Bradley student, I help to create a website that displays laundry information
+                In collaboration with another Bradley student, I helped to create a website that displays laundry information
                 of all the different locations around campus. This website utilizes vanilla HTML, JS, and CSS.
             </p>
         </div>
