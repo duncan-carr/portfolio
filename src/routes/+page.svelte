@@ -1,11 +1,5 @@
-<script>
-    import main from '$lib/main.jpg';
-</script>
-
 <div class="flex items-center justify-center my-36 gap-10">
-    <div>
-        <img src={main} alt="" class="w-36 shadow-lg rounded-full">
-    </div>
+        <img src="https://i.imgur.com/OlEB0Gw.jpg" alt="" class="w-36 shadow-lg rounded-full">
 
     <div id="intro" class="flex flex-col">
         <h1 class="text-4xl font-bold">Hi there! I'm Duncan. 👋</h1>
@@ -61,7 +55,7 @@
             </p>
         </div>
         <div class="my-3">
-            <h3 class="text-lg font-thin">Post-Grad Instagram Account – Apr 2023 through June 2023 – <i class="fa-brands fa-square-instagram"></i> <a target="_blank" href="https://www.instagram.com/sluh.2023/">Instagram Account</a></h3>
+            <h3 class="text-lg font-thin">Post-Grad Instagram Account – Apr 2023 through June 2023 – <i class="fa-brands fa-square-instagram"></i> <a target="_blank" href="https://www.instagram.com/sluh.2023/">Instagram</a></h3>
             <p>
                 Handled surveying information from students and used Adobe Illustrator to create each post's graphic. I learned
                 more about spacing and graphic design principles, and became familiar with Illustrator's tools.
