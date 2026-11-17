@@ -1,0 +1,144 @@
+{
+  "importedAt": "2026-11-02T04:09:37.120Z",
+  "profile": {
+    "firstName": "Duncan",
+    "lastName": "Carr",
+    "headline": "Actuarial Intern at AAIS (American Association of Insurance Services)",
+    "summary": "",
+    "location": "Denver, Colorado, United States",
+    "industry": "Insurance"
+  },
+  "positions": [
+    {
+      "company": "AAIS (American Association of Insurance Services)",
+      "title": "Actuarial Analyst",
+      "description": "",
+      "location": "Remote",
+      "startDate": "Starting: Jan 2027",
+      "endDate": ""
+    },
+    {
+      "company": "AAIS (American Association of Insurance Services)",
+      "title": "Actuarial Intern",
+      "description": "- Contributed to countrywide filings (loss costs, endorsements, etc.) for various LOBs including Mobile-Homeowners, Homeowners, Dwelling Properties, Commercial Properties, Commercial Liability, Boatowners - Developed and documented reusable Python workflows and Excel template files for recurring actuarial analyses, increasing efficiency and accuracy - Led weekly intern touchbase meetings during summer 2026 - Co-lead teams to back-to-back 1st place victories in the annual company fitness competition",
+      "location": "Remote",
+      "startDate": "May 2025",
+      "endDate": "Dec 2026"
+    },
+    {
+      "company": "Dormly",
+      "title": "Co-Founder & Developer",
+      "description": "- Led the full-stack development of two prototypes of two software prototypes - Collaborated on a team of 3 to create a 2-page proposal and 10-page feasibility plan - Presented in an expo and formal presentation settings throughout Bradley's Big Idea competition - 2nd place Bradley Big Idea Competition 2025 Overall, winning $4,000 - 1st place Bradley Big Idea Competition 2025 Expo",
+      "location": "Peoria, IL",
+      "startDate": "Jan 2025",
+      "endDate": "Apr 2025"
+    },
+    {
+      "company": "Shipd",
+      "title": "AI Training Data Reviewer",
+      "description": "- Reviewed answers to Mathematics questions for accuracy, completeness, and quality - Answered Mathematics questions while describing my entire thought process start-to-finish",
+      "location": "Remote",
+      "startDate": "Nov 2024",
+      "endDate": "Jan 2025",
+      "hideFromMain": true
+    },
+    {
+      "company": "Bradley University",
+      "title": "Resident Advisor",
+      "description": "- Directly supported floors of 25-35 residents and indirectly supported a building of around 250 residents - Created and ran successful floor programs to engage residents - Mentored and helped train new Resident Advisors",
+      "location": "Peoria, IL",
+      "startDate": "Jan 2024",
+      "endDate": "May 2026"
+    },
+    {
+      "company": "Bradley University",
+      "title": "Mathematics Tutor",
+      "description": "- Guided tutees through the learning process through question-based tutoring - Mentored new tutors to help reach comfortability and confidence when tutoring - Received feedback from tutees about courses passed due to my tutoring - Achieved CRLA Level 1 certification in August 2024",
+      "location": "Peoria, IL",
+      "startDate": "Jan 2024",
+      "endDate": "Dec 2025"
+    },
+    {
+      "company": "St. Louis Zoo",
+      "title": "Retail Cashier",
+      "description": "",
+      "location": "St. Louis, Missouri",
+      "startDate": "Feb 2023",
+      "endDate": "Aug 2023",
+      "hideFromMain": true
+    },
+    {
+      "company": "Clementine's Naughty and Nice Creamery",
+      "title": "Purveyor of Yum",
+      "description": "",
+      "location": "St. Louis, Missouri",
+      "startDate": "Jun 2022",
+      "endDate": "Sep 2022",
+      "hideFromMain": true
+    }
+  ],
+  "education": [
+    {
+      "school": "Bradley University",
+      "degree": "Bachelor of Science in Mathematics",
+      "notes": "Minor in Business Analytics",
+      "activities": "",
+      "startDate": "Aug 2023",
+      "endDate": "Dec 2026"
+    },
+    {
+      "school": "St. Louis University High",
+      "degree": "",
+      "notes": "",
+      "activities": "",
+      "startDate": "",
+      "endDate": "May 2023"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Introduction to Databricks in 1 Hour",
+      "authority": "Udemy",
+      "url": "https://ude.my/UC-68e52207-e596-4252-b57a-75c48809e309",
+      "startDate": "Sep 2026",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    "Data Analysis",
+    "Pandas (Software)",
+    "Python (Programming Language)",
+    "SQL",
+    "TypeScript",
+    "New Business Development",
+    "Microsoft Excel",
+    "Communication",
+    "Tutoring",
+    "Mathematics"
+  ],
+  "organizations": [
+    {
+      "name": "Activities Council of Bradley University",
+      "role": "Marketing Coordinator, Event Committee Co-Lead",
+      "description": "As a marketing coordinator with a concentration on photo and video, I would take pictures at events, manage our digital organization of images, select images to upload to recap our events and promote the organization. Additionally, I created and edited a few videos to help promote Bradley University's Homecoming Week!  As the Event Committee Co-Lead, I managed a group of volunteers not part of the Activities Council Executive Board through the event planning process through a series of bi-weekly meetings I held to create a series of successful events with 50+ attendees.",
+      "startDate": "Jan 2024",
+      "endDate": "Dec 2024"
+    }
+  ],
+  "exams": [
+    {
+      "name": "SOA Exam FM",
+      "description": "",
+      "startDate": "Oct 2025"
+    },
+    {
+      "name": "SOA Exam P",
+      "description": "",
+      "startDate": "Jul 2024"
+    }
+  ],
+  "projects": [],
+  "honors": [],
+  "languages": [],
+  "volunteering": []
+}
